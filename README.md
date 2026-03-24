@@ -1,5 +1,6 @@
 <div align="center">
 ### Electrical Engineer · System Integration · Embedded Systems
+  
 *Turning chaos into structure. Making hardware talk to software — safely.*
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-diaz-nur-farizki-2aa67a1b3/)
