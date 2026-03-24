@@ -1,10 +1,15 @@
 <div align="center">
-Electrical Engineer · System Integration · Embedded Systems
-Turning chaos into structure. Making hardware talk to software — safely.
-  
+
+**Electrical Engineer · System Integration · Embedded Systems**
+<br>
+*Turning chaos into structure. Making hardware talk to software — safely.*
+
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-diaz-nur-farizki-2aa67a1b3/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mdiaznf23/)
 [![GitHub followers](https://img.shields.io/github/followers/MDiaznf23?style=flat-square&label=Followers&color=333)](https://github.com/MDiaznf23)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MDiaznf23.MDiaznf23&style=flat-square&color=333)](https://github.com/MDiaznf23)
 
 </div>
 
