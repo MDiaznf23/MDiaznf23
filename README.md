@@ -37,32 +37,11 @@ I'm an Electrical Engineer focused on **System Integration** and **Embedded Syst
 
 ---
 
-## Featured Projects
-
-> Cards below are **live** — star counts update automatically.
-
-<div align="center">
-
-[![simple-autoricing-i3wm-dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=MDiaznf23&repo=simple-autoricing-i3wm-dotfiles&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/MDiaznf23/simple-autoricing-i3wm-dotfiles)
-[![bagja-shell](https://github-readme-stats.vercel.app/api/pin/?username=MDiaznf23&repo=bagja-shell&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/MDiaznf23/bagja-shell)
-
-[![m3wal](https://github-readme-stats.vercel.app/api/pin/?username=MDiaznf23&repo=m3wal&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/MDiaznf23/m3wal)
-[![voicewm](https://github-readme-stats.vercel.app/api/pin/?username=MDiaznf23&repo=voicewm&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/MDiaznf23/voicewm)
-
-[![ph-monitoring-system-prototype](https://github-readme-stats.vercel.app/api/pin/?username=MDiaznf23&repo=ph-monitoring-system-prototype&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/MDiaznf23/ph-monitoring-system-prototype)
-[![warnaza](https://github-readme-stats.vercel.app/api/pin/?username=MDiaznf23&repo=warnaza&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/MDiaznf23/warnaza)
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
 
-![Diaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDiaznf23&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDiaznf23&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MDiaznf23&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
 
 </div>
 
