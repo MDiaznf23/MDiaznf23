@@ -17,14 +17,12 @@
 
 I'm an Electrical Engineer focused on **System Integration** and **Embedded Systems**. I like bridging the gap between raw hardware and high-level software — making sure things run efficiently and, most importantly, **safely**.
 
-> *"If I have to do a manual task more than three times, I write a script to automate it. Always with an automated backup first."*
-
 ---
 
 ## What I Work With
 
 **Hardware**
-- ESP32, Arduino, STM32, Risc-V
+- ESP32, Arduino, STM32, RISC-V
 - PCB Design
 - 3D Modeling (Inventor / SketchUp)
 
