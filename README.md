@@ -32,7 +32,8 @@ I'm an Electrical Engineer focused on **System Integration** and **Embedded Syst
 
 **OS / Environment**
 - Linux (Arch / CachyOS)
-- i3wm, Open Source ecosystem
+- i3wm, Open Source X11
+- Hyprland, Open Source Wayland
 
 ---
 
