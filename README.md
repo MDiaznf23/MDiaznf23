@@ -33,6 +33,7 @@ I'm an Electrical Engineer focused on **System Integration** and **Embedded Syst
 **OS / Environment**
 - Linux (Arch / CachyOS)
 - i3wm, Open Source X11
+- Openbox, Floating X11 Environment
 - Hyprland, Open Source Wayland
 
 ---
@@ -50,6 +51,6 @@ I'm an Electrical Engineer focused on **System Integration** and **Embedded Syst
 ## Focus
 
 Building **fail-safe hardware-software integrations** and automating repetitive workflows.  
-If it can be automated — it will be.
+If it can be automated, it will be.
 
 ---
