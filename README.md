@@ -42,7 +42,8 @@ I'm an Electrical Engineer focused on **System Integration** and **Embedded Syst
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDiaznf23&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![](https://raw.githubusercontent.com/MDiaznf23/MDiaznf23/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/MDiaznf23/MDiaznf23/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 </div>
 
