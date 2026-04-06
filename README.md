@@ -42,7 +42,7 @@ I'm an Electrical Engineer focused on **System Integration** and **Embedded Syst
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MDiaznf23&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDiaznf23&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
