@@ -38,7 +38,7 @@ I'm an Electrical Engineer focused on **System Integration** and **Embedded Syst
 
 ---
 
-## GitHub Stats
+## Top Language
 
 <div align="center">
 
