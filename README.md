@@ -31,7 +31,7 @@ I'm an Electrical Engineer focused on **System Integration** and **Embedded Syst
 - SQLite, Bash/Shell scripting
 
 **OS / Environment**
-- Linux (Arch / Nix OS)
+- Linux (Arch)
 - i3wm, Open Source X11
 - Openbox, Floating X11 Environment
 - Hyprland, Open Source Wayland
